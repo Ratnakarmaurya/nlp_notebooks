@@ -4,4 +4,6 @@
 =======
 .ipynb_checkpoints
 .csv*
+.tsv*
+.h5*
 >>>>>>> 5aea00677402426ac475216d253d2b24943ba87f
